@@ -5,6 +5,7 @@ body {
 #heading {
   background-color: #007acc;
   height: 100px;
+  margin: auto;
 }
 
 nav {
