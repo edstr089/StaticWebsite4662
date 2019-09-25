@@ -4,7 +4,7 @@ body {
 
 nav {
   float: left;
-  width: 15%;
+  width: 0;
   background:#f1f1f1;
   padding: 0;
 }
@@ -32,5 +32,5 @@ li a:hover {
 
 h1 {
   color: #007acc;
-  padding-left: 20px;
+  padding-left: 250px;
 }
