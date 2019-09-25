@@ -4,6 +4,7 @@ body {
 
 #heading {
   background-color: #007acc;
+  background-image: linear-gradient(to bottom right, #007acc, #40bf40);
   height: 100px;
   text-align: center;
 }
@@ -30,7 +31,6 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color on hover */
 li a:hover {
   background-color: #40bf40;
   color: white;
