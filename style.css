@@ -39,4 +39,6 @@ li a:hover {
 h1.home {
   color: #ffffff;
   margin: auto;
+  padding-left: 30px;
+  padding-top: 30px;
 }
