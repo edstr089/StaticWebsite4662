@@ -2,6 +2,11 @@ body {
   font-family: "Georgia", serif;
 }
 
+#heading {
+  background-color: #007acc;
+  height: 100px;
+}
+
 nav {
   float: left;
   width: 0;
@@ -9,7 +14,7 @@ nav {
   padding: 0;
 }
 
-ul {
+ul.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -30,7 +35,7 @@ li a:hover {
   color: white;
 }
 
-h1 {
+h1.home {
   color: #007acc;
   padding-left: 250px;
 }
