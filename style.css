@@ -4,8 +4,8 @@ body {
 
 nav {
   float: left;
-  width: 30%;
-  background:#ebebeb;
+  width: 25%;
+  background:#f1f1f1;
   padding: 20px;
 }
 ul {
@@ -31,4 +31,5 @@ li a:hover {
 
 h1 {
   color: #007acc;
+  padding-left: 20px;
 }
