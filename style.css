@@ -4,7 +4,6 @@ body {
 
 #heading {
   background-color: #007acc;
-  background-image: linear-gradient(to right, #007acc, #40bf40);
   height: 100px;
   text-align: left;
 }
