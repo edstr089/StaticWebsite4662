@@ -2,12 +2,7 @@ body {
   font-family: "Georgia", serif;
 }
 
-nav {
-  float: left;
-  width: 25%;
-  background:#f1f1f1;
-  padding: 20px;
-}
+
 ul {
   list-style-type: none;
   margin: 0;
