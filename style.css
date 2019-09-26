@@ -42,9 +42,24 @@ h1.home {
   padding-top: 30px;
 }
 
-#mission {
+.column {
+  float: center;
+  width: 40%;
   padding-left: 250px;
-  padding-right: 500px;
+}
+
+#mission {
   line-height: 150%;
   color: #636363;
 }
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
