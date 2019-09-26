@@ -41,3 +41,8 @@ h1.home {
   padding-left: 30px;
   padding-top: 30px;
 }
+
+h2.mission {
+  padding-left: 250px;
+  color: #636363;
+}
