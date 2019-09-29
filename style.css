@@ -8,7 +8,6 @@ padding: 10px;
 background: #f1f1f1;
 }
 
-/* Header/Blog Title */
 .header {
 padding: 30px;
 text-align: center;
@@ -42,7 +41,7 @@ color: black;
 
 p {
 color: black;
-line-height: 130%;
+line-height: 150%;
 font-family: helvetica;
 font-size: 18px;
 }
