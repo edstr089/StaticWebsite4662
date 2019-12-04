@@ -121,7 +121,7 @@ margin-top: 20px;
 }
 
 .table {
-  table-layout: fixed;
+  table-layout: inherit;
   width: 100%;
 }
 
@@ -135,10 +135,19 @@ th {
 td {
   border: 1px solid #8fd2ff;
   text-align: left;
-  padding: 50px;
-  width: 9%;
+  height: 90px;
+  width: 7%;
+  padding-left: 8px;
+  padding-top: 8px;
+  color: black;
+  vertical-align: top;
+  text-align: left;
 }
 
 td:hover {
   background: #cbe7f7;
+}
+
+.notmonth {
+  color: lightgrey;
 }
